@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/gifs">
+        <file>wait.gif</file>
+        <file>cookie_monster_waiting.gif</file>
+    </qresource>
+</RCC>
